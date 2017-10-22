@@ -1,5 +1,5 @@
 # SwitchPhpVersion
-
+  sudo a2enmod rewrite && sudo service apache2 restart
 # Default PHP 5.6 is set on your system and you need to switch to PHP 7.1.
 
 Apache:-
